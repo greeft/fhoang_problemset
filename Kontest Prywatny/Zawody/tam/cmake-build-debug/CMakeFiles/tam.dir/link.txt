@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/tam.dir/main.cpp.o -o tam 

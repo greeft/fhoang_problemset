@@ -1,0 +1,3 @@
+/home/greeft/Kontest Prywatny/mro/cmake-build-debug/CMakeFiles/mro.dir
+/home/greeft/Kontest Prywatny/mro/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/greeft/Kontest Prywatny/mro/cmake-build-debug/CMakeFiles/rebuild_cache.dir

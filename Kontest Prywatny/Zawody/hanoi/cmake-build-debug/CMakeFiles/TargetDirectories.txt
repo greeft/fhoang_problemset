@@ -1,0 +1,3 @@
+/home/greeft/Kontest Prywatny/Zawody/hanoi/cmake-build-debug/CMakeFiles/hanoi.dir
+/home/greeft/Kontest Prywatny/Zawody/hanoi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/greeft/Kontest Prywatny/Zawody/hanoi/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/greeft/Kontest Prywatny/Wyzwania/lmp/cmake-build-debug/CMakeFiles/lmp.dir
+/home/greeft/Kontest Prywatny/Wyzwania/lmp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/greeft/Kontest Prywatny/Wyzwania/lmp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

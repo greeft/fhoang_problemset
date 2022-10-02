@@ -1,0 +1,3 @@
+/home/greeft/Kontest Prywatny/pol/cmake-build-debug/CMakeFiles/pol.dir
+/home/greeft/Kontest Prywatny/pol/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/greeft/Kontest Prywatny/pol/cmake-build-debug/CMakeFiles/rebuild_cache.dir
