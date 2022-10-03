@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/ricyboy/zadansy/Obozy/22Buk08/Dzień 2/sum Select CMakeLists.txt

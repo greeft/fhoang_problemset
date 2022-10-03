@@ -1,0 +1,3 @@
+/home/ricyboy/zadansy/Obozy/22Pom09/Dzien 3/pec/cmake-build-debug/CMakeFiles/pec.dir
+/home/ricyboy/zadansy/Obozy/22Pom09/Dzien 3/pec/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ricyboy/zadansy/Obozy/22Pom09/Dzien 3/pec/cmake-build-debug/CMakeFiles/rebuild_cache.dir

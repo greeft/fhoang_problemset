@@ -1,0 +1,3 @@
+/home/ricyboy/zadansy/Warsztaty/01W0913/ska/cmake-build-debug/CMakeFiles/ska.dir
+/home/ricyboy/zadansy/Warsztaty/01W0913/ska/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ricyboy/zadansy/Warsztaty/01W0913/ska/cmake-build-debug/CMakeFiles/rebuild_cache.dir

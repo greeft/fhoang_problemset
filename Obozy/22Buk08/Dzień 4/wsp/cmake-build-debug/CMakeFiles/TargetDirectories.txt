@@ -1,0 +1,3 @@
+/home/ricyboy/zadansy/Obozy/22Buk08/Dzień 4/wsp/cmake-build-debug/CMakeFiles/wsp.dir
+/home/ricyboy/zadansy/Obozy/22Buk08/Dzień 4/wsp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ricyboy/zadansy/Obozy/22Buk08/Dzień 4/wsp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

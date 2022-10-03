@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/ricyboy/zadansy/Obozy/22Pom09/dzien 1/nie 100/kos Select CMakeLists.txt
