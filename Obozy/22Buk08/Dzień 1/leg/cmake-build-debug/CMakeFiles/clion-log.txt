@@ -1,4 +1,4 @@
-/snap/clion/203/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/203/bin/ninja/linux/ninja -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G Ninja -S "/home/ricyboy/zadansy/Obozy/22Buk08/Dzień 1/leg" -B "/home/ricyboy/zadansy/Obozy/22Buk08/Dzień 1/leg/cmake-build-debug"
+/snap/clion/209/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/209/bin/ninja/linux/ninja -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G Ninja -S "/home/ricyboy/Documents/GitHub/fhoang_problemset/Obozy/22Buk08/Dzień 1/leg" -B "/home/ricyboy/Documents/GitHub/fhoang_problemset/Obozy/22Buk08/Dzień 1/leg/cmake-build-debug"
 -- The C compiler identification is GNU 11.2.0
 -- The CXX compiler identification is GNU 11.2.0
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/ricyboy/zadansy/Obozy/22Buk08/Dzień 1/leg/cmake-build-debug
+-- Build files have been written to: /home/ricyboy/Documents/GitHub/fhoang_problemset/Obozy/22Buk08/Dzień 1/leg/cmake-build-debug

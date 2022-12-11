@@ -1,18 +1,18 @@
 //AMOGUS
 #include <bits/stdc++.h>
 using namespace std;
-const uint_fast32_t H = 31;
-const uint_fast32_t mod = 1e9 + 9;
+const int H = 31;
+const int mod = 1e9 + 9;
 
-uint_fast32_t t,value,pointer_l,pointer_p,size;
-uint_fast64_t hash_l,hash_p,base_p;
+int t,value,pointer_l,pointer_p,size;
+int hash_l,hash_p,base_p;
 string s;
 int main()
 {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     cin>>t;
-    for(uint_fast32_t h =0; h < t;++h)
+    for(int h =0; h < t;++h)
     {
         cin>>s;
         pointer_l &=0;

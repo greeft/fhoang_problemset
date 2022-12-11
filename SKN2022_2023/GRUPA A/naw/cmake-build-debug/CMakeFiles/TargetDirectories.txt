@@ -1,0 +1,3 @@
+/home/ricyboy/Documents/GitHub/fhoang_problemset/SKN2022_2023/GRUPA A/naw/cmake-build-debug/CMakeFiles/naw.dir
+/home/ricyboy/Documents/GitHub/fhoang_problemset/SKN2022_2023/GRUPA A/naw/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ricyboy/Documents/GitHub/fhoang_problemset/SKN2022_2023/GRUPA A/naw/cmake-build-debug/CMakeFiles/rebuild_cache.dir
